@@ -2,7 +2,7 @@
 
 Hi!This is my DIP homework repository!
 
-I will implement some basic digital image processing algorithms by using C++.
+I will implement some basic digital image processing algorithms by using C++.And I also use opencv to read image.
 
 Directory:
 
